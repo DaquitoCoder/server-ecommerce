@@ -29,7 +29,7 @@
     {
       "name": "Ferrari Cap Charles Leclerc",
       "price": "59.99",
-      "image": "./img/caps/ferrari-cap-charles-leclerc.jpg",
+      "image": "/img/caps/ferrari-cap-charles-leclerc.jpg",
       "alt": "Ferrari Cap Charles Leclerc",
       "category": "caps",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare.",
@@ -38,7 +38,7 @@
     {
       "name": "McLaren Cap Lando Norris",
       "price": "59.99",
-      "image": "./img/caps/mclaren-cap-lando-norris-2022.webp",
+      "image": "/img/caps/mclaren-cap-lando-norris-2022.webp",
       "alt": "McLaren Cap Lando Norris",
       "category": "caps",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare.",
