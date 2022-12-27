@@ -20,9 +20,10 @@
     {
       "name": "Mercedes Cap Lewis Hamilton USA 2022",
       "price": "59.99",
-      "image": "./img/caps/mercedes-cap-usa-2022.webp",
+      "image": "/img/caps/mercedes-cap-usa-2022.webp",
       "alt": "Mercedes Cap USA 2022",
       "category": "caps",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare.",
       "id": 1
     },
     {
@@ -31,6 +32,7 @@
       "image": "./img/caps/ferrari-cap-charles-leclerc.jpg",
       "alt": "Ferrari Cap Charles Leclerc",
       "category": "caps",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare.",
       "id": 2
     },
     {
@@ -39,69 +41,77 @@
       "image": "./img/caps/mclaren-cap-lando-norris-2022.webp",
       "alt": "McLaren Cap Lando Norris",
       "category": "caps",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare.",
       "id": 3
     },
     {
       "name": "Alpine F1 Cap Fernando Alonso",
       "price": "59.99",
-      "image": "./img/caps/bwt-alpine-f1-team-2022.webp",
+      "image": "/img/caps/bwt-alpine-f1-team-2022.webp",
       "alt": "Alpine F1 Cap Fernando Alonso",
       "category": "caps",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare.",
       "id": 4
     },
     {
       "name": "Alfa Romeo C42 Guanyu Zhou",
       "price": "59.99",
-      "image": "./img/cars/Alfa-Romeo-C42-24.webp",
+      "image": "/img/cars/Alfa-Romeo-C42-24.webp",
       "alt": "Alfa Romeo C42 Guanyu Zhou",
       "category": "cars",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare.",
       "id": 5
     },
     {
       "id": 6,
       "name": "F1-75 Carlos Sainz",
       "price": "59.99",
-      "image": "./img/cars/F1-75-CarlosSainz.webp",
+      "image": "/img/cars/F1-75-CarlosSainz.webp",
       "alt": "F1-75 Carlos Sainz",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare.",
       "category": "cars"
     },
     {
       "id": 7,
       "name": "F1-75 Charles Leclerc",
       "price": "59.99",
-      "image": "./img/cars/F1-75-CharlesLeclerc.webp",
+      "image": "/img/cars/F1-75-CharlesLeclerc.webp",
       "alt": "F1-75 Charles Leclerc",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare.",
       "category": "cars"
     },
     {
       "id": 8,
       "name": "RB-18 Max Verstappen",
       "price": "59.99",
-      "image": "./img/cars/RB18-MaxVerstappen.webp",
+      "image": "/img/cars/RB18-MaxVerstappen.webp",
       "alt": "RB-18 Max Verstappen",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare.",
       "category": "cars"
     },
     {
       "id": 9,
       "name": "Circuito Gilles Villeneuve",
       "price": "59.99",
-      "image": "./img/cuadros/gilles-villeneuve.jpg",
+      "image": "/img/cuadros/gilles-villeneuve.jpg",
       "alt": "Circuito Gilles Villeneuve",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare.",
       "category": "circuits"
     },
     {
       "id": 10,
       "name": "Autódromo Interlagos",
       "price": "59.99",
-      "image": "./img/cuadros/interlagos.webp",
+      "image": "/img/cuadros/interlagos.webp",
       "alt": "Autódromo Interlagos",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare.",
       "category": "circuits"
     },
     {
       "id": 11,
       "name": "Circuito de Nurburgring",
       "price": "59.99",
-      "image": "./img/cuadros/nurburgring.webp",
+      "image": "/img/cuadros/nurburgring.webp",
       "alt": "Circuito de Nurburgring",
       "category": "circuits"
     },
@@ -109,16 +119,18 @@
       "id": 12,
       "name": "Circuito de Spa Francorchamps",
       "price": "59.99",
-      "image": "./img/cuadros/spa-francorchamps.webp",
+      "image": "/img/cuadros/spa-francorchamps.webp",
       "alt": "Circuito de Spa Francorchamps",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare.",
       "category": "circuits"
     },
     {
       "name": "Circuito de Monza - Italia",
       "price": "49.99",
-      "image": "./img/cuadros/monza.jpg",
+      "image": "/img/cuadros/monza.jpg",
       "alt": "Monza Circuit",
       "category": "circuits",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum ligula id nisl iaculis, sit amet cursus erat finibus. Mauris elementum fringilla risus, vitae ornare.",
       "id": 13
     }
   ]
